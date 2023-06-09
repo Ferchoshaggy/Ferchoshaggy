@@ -7,7 +7,8 @@
 </div>
 
  <div style="text-align: center;">
-
+  
+<h2>Sobre mi 😃</h2>
 <p style="font-size: 20px;">
 Soy Desarrollador Web Con conocimientos en el framework de Laravel con el patrón de diseño de software que es MVC para el BACK-END Y FRONT-END y en los lenguajes de programación como JavaScript, PHP, así como el uso de HTML, CSS y Bootstrap.
 </p>
