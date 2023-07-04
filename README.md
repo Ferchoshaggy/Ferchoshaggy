@@ -30,6 +30,13 @@ También tengo conocimientos en java, actualmente estoy en el ámbito de desarro
 src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <img 
 src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">  <img 
 src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+
+<h2>Mis Repositorios : 💻</h2>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ferchoshaggy&repo=ProyectoVW)](https://github.com/Ferchoshaggy/ProyectoVW)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ferchoshaggy&repo=tesoem)](https://github.com/Ferchoshaggy/tesoem)
+
+
  </div>
 
 
