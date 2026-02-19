@@ -15,10 +15,6 @@
 <p style="font-size: 20px;">
 Soy Desarrollador Con conocimientos en el framework de Laravel con el patrón de diseño de software que es MVC para el BACK-END Y FRONT-END y en los lenguajes de programación como JavaScript, PHP, así como el uso de HTML, CSS y Bootstrap, de igual forma tengo conocimientos en el framework de Spring utilizando lenguaje java manejando las dependencias con Maeven y gradle, tambien he utilizado herramientas de AWS como S3, Secrets.
 </p>
-
-<p style="font-size: 20px;">
-También tengo conocimientos en java, actualmente estoy en el ámbito de desarrollo web por las empresas donde he laborado, no me cierro a otros ámbitos y aprender otras tecnologías y lenguajes de programación.
-</p>
   
 <a href="https://www.linkedin.com/in/fernando-juarez-medina-487847238/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:Fernando Juarez Medina -%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
